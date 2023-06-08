@@ -31,9 +31,9 @@ Integer = Functions In Vortex
 ...     = Sharepoint / Knowledge Share
 
 ( 1 Dormant State
-( 2 Record  Audio
-( 4 Convert Audio To Tokens
-( 8 Use Tokens As Prolog Fact
-( 7 Consult Knowledge Base
-( 5 Retrieve Knowledge From Knowledge Base
+( 2 Sprouting State
+( 4 Growing State
+( 8 Reproductive State
+( 7 Retirement State
+( 5 Expiration State
 ~~~
