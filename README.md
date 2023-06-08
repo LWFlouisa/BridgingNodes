@@ -8,21 +8,21 @@ Odd number states connect to other number states in other vortex state machines.
 Compatible states in each vortex must be structured in a way it doesn't matter what state you arrive in.
 
 ~~~
-      8               1       |       1               8
-      +               +       |       +               +       
-     / \             / \      |      / \             / \      
-    /   \           /   \     |     /   \           /   \     
-   /     \         /     \    |    /     \         /     \    
-7 +       \       /       + 2 | 2 +       \       /       + 7 
-   \       \     /       /    |    \       \     /       /    
-    \       \   /       /     |     \       \   /       /     
-     \       \ /       /      |      \       \ /       /      
-      \       X       /       |       \       X       /       
-       \     / \     /        |        \     / \     /        
-        \   /   \   /         |         \   /   \   /         
-         \ /     \ /          |          \ /     \ /          
-          +       +           |           +       +
-          5       4           |           4       8
+      8               1               1               8
+      +               +               +               +       
+     / \             / \             / \             / \      
+    /   \           /   \           /   \           /   \     
+   /     \         /     \         /     \         /     \    
+7 +       \       /       + 2...2 +       \       /       + 7 
+   \       \     /       /         \       \     /       /    
+    \       \   /       /           \       \   /       /     
+     \       \ /       /             \       \ /       /      
+      \       X       /               \       X       /       
+       \     / \     /                 \     / \     /        
+        \   /   \   /                   \   /   \   /         
+         \ /     \ /                     \ /     \ /          
+          +       +                       +       +
+          5       4                       4       8
 
 
 Integer = Functions In Vortex
