@@ -27,6 +27,7 @@ The only odd state that shouldn't be shared is the fifth: expiration. It may lea
          \ /     \ /                     \ /     \ /          
           +       +                       +       +
           5       4                       4       8
+                  Git Clone       Git Clone
 
 
 Integer = Functions In Vortex
