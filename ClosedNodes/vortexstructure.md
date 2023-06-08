@@ -1,4 +1,4 @@
-## Unbridges Nodes
+## Unbridged Nodes
 
 ~~~
       8               1
