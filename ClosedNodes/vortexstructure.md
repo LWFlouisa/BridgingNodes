@@ -22,7 +22,6 @@
                                       \ /     \ /
                                        +       +
                                        5       4
-~~~
 
 Integer = Functions In Vortex
 \ or /  = State Machines
@@ -35,3 +34,4 @@ Integer = Functions In Vortex
 ( 8 Use Tokens As Prolog Fact
 ( 7 Consult Knowledge Base
 ( 5 Retrieve Knowledge From Knowledge Base
+~~~
